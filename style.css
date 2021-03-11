@@ -34,3 +34,6 @@ h2, h3, h4 {
 .row{
 	margin: 5px;
 }
+a{
+	text-align: center;
+}
